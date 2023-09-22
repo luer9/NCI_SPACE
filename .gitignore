@@ -1,0 +1,12 @@
+target/
+.idea/
+.bsp/
+DS_Store/
+Benchmark/
+RESULT/
+uobm1/
+watdiv/
+project/
+spark-warehouse/
+*.iml
+*.DS_Store
